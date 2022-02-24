@@ -5,6 +5,7 @@ I'm a DeFi Degen beginning my journey to become a developer. Below are some of t
 - Solidity
 - Cairo
 - Sway
+- Rust
 
 If you want to get in touch, you can contact me through one of the methods below:
 
