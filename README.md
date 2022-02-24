@@ -1,6 +1,6 @@
 Hi I'm Roku
 
-I'm a DeFi Degen beginning my journey to become a developer. Below are some of the languages I plan on learning:
+I'm a DeFi Degen beginning my journey to become a developer. Below are some of the languages I plan on learning over the next few months and years:
 
 - Solidity
 - Cairo
